@@ -1,4 +1,4 @@
-# 🚀 SkillPath AI – Personalized Learning Roadmap Generator
+# 🚀 AI_LEARNING_PATH_GENERATOR – Personalized Learning Roadmap Generator
 
 SkillPath AI is an AI-powered learning roadmap generator that helps users create structured, day-wise learning plans for any skill or technology.
 
