@@ -139,6 +139,23 @@ Student Grade Calculator
 
 ---
 
+## 📸 Screenshots
+
+<h3>🎯 Learning Goal Input</h3>
+<p align="center">
+  <img src="assets/imgg1.png" width="600">
+</p>
+
+<h3>🚀 Personalized Learning Plan </h3>
+<p align="center">
+  <img src="assets/imgg2.png" width="600">
+</p>
+
+<h3>📚 Generated Learning Roadmap</h3>
+<p align="center">
+  <img src="assets/imgg3.png" width="600">
+</p>
+
 ## 👨‍💻 Author
 
 Venkat Laxmi Gottam
